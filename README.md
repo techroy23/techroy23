@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=techroy23&icon=10&color=1)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 👋 Hi there! I’m SleepyHead<br><br>🌙 Night Owl Coder<br>💻 Python Enthusiast<br>🖥️ Automating the Boring Stuff<br>🔍 Image Recognition & Text Extraction<br>🎮 Memory Manipulator with Cheat Engine<br>📚 Lover of Clean, Commented Code<br>🌈 Rich Print Aficionado
 
